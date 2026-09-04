@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة الصيانة CMMS - معمل المطبوعات الفلكسبل",
+  "description": "نظام إدارة الصيانة المحوسب الشامل لمعمل المطبوعات الفلكسبل بإدارة م. علي رضا - متابعة الأصول، أوامر العمل، الصيانة الوقائية، والمخزون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
